@@ -727,5 +727,17 @@
       <repositoryKey>SwiftLint</repositoryKey>
       <key>yoda_condition</key>
     </rule>
+    <rule>
+      <repositoryKey>SwiftLint</repositoryKey>
+      <key>double_space</key>
+    </rule>
+    <rule>
+      <repositoryKey>SwiftLint</repositoryKey>
+      <key>force_https</key>
+    </rule>
+    <rule>
+      <repositoryKey>SwiftLint</repositoryKey>
+      <key>uiwebview_deprecated</key>
+    </rule>
   </rules>
 </profile>

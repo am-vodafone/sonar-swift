@@ -1265,5 +1265,26 @@
         "name": "Yoda condition rule",
         "description": "The variable should be placed on the left, the constant on the right of a comparison operator.",
         "severity": "MINOR"
-    }
+    },
+    {
+        "key": "double_space",
+        "category": "SwiftLint",
+        "name": "double_space rule",
+        "description": "no double_space.",
+        "severity": "MINOR"
+    },
+    {
+        "key": "force_https",
+        "category": "SwiftLint",
+        "name": "force_https rule",
+        "description": "no HTTP .",
+        "severity": "MINOR"
+    },
+    {
+        "key": "uiwebview_deprecated",
+        "category": "SwiftLint",
+        "name": "uiwebview_deprecated rule",
+        "description": "no uiwebview.",
+        "severity": "MINOR"
+    }    
 ]
